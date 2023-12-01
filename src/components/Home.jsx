@@ -14,7 +14,7 @@ const Home = () => {
       <footer>
         <div>
           <h4>&copy; 2023 Apply. All rights reserved.</h4>
-          <h4 className="divh4">Kamal Singh</h4>
+          <h4 className="divh4">Apratim Kanth</h4>
         </div>
         <div>
           <h4>Terms - Privacy Policy</h4>
